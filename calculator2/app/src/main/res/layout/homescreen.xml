@@ -1,0 +1,378 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	tools:visibility="visible">
+	<!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		homescreen
+     *	@date 		1655470354552
+     *	@title 		Page 3
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+
+	<ScrollView
+		android:id="@+id/homescreen"
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent">
+
+		<RelativeLayout
+			android:id="@+id/content_container"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content">
+
+
+			<RelativeLayout
+				android:id="@+id/page_homescreen_ek1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp">
+
+				<View
+					android:id="@+id/_bg__homescreen_ek2"
+					android:layout_width="411dp"
+					android:layout_height="800dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:background="@drawable/_bg__homescreen_ek2_shape" />
+
+				<Button
+					android:id="@+id/bclear"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="13dp"
+					android:layout_marginTop="280dp"
+					android:background="@drawable/bclear_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txtac_string"
+					android:textAllCaps="false"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="22sp"/>
+
+				<View
+					android:id="@+id/emptyspace2"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="13dp"
+					android:layout_marginTop="280dp"
+					android:background="@drawable/emptyspace_shape"
+					android:visibility="visible" />
+
+				<Button
+					android:id="@+id/bback"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="109dp"
+					android:layout_marginTop="280dp"
+					android:background="@drawable/bback_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="back"
+					android:textAllCaps="false"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="20sp" />
+
+
+				<Button
+					android:id="@+id/bmod"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="205dp"
+					android:layout_marginTop="280dp"
+					android:background="@drawable/bmod_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txtmod_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="28sp" />
+
+
+				<Button
+					android:id="@+id/bdiv"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="301dp"
+					android:layout_marginTop="280dp"
+					android:background="@drawable/bdiv_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="÷"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="32sp" />
+
+
+				<Button
+					android:id="@+id/b7"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="13dp"
+					android:layout_marginTop="376dp"
+					android:background="@drawable/b7_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txt7_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="26sp" />
+
+
+				<Button
+					android:id="@+id/b8"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="109dp"
+					android:layout_marginTop="376dp"
+					android:background="@drawable/b8_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txt8_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="26sp" />
+
+
+				<Button
+					android:id="@+id/b9"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="205dp"
+					android:layout_marginTop="376dp"
+					android:background="@drawable/b9_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txt9_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="26sp" />
+
+				<Button
+					android:id="@+id/bmult"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="301dp"
+					android:layout_marginTop="376dp"
+					android:background="@drawable/bmult_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="×"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="32sp" />
+
+				<Button
+					android:id="@+id/b4"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="13dp"
+					android:layout_marginTop="472dp"
+					android:background="@drawable/b4_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txt4_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="26sp" />
+
+
+				<Button
+					android:id="@+id/b5"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="109dp"
+					android:layout_marginTop="472dp"
+					android:background="@drawable/b5_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txt5_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="26sp" />
+
+
+				<Button
+					android:id="@+id/b6"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="205dp"
+					android:layout_marginTop="472dp"
+					android:background="@drawable/b6_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txt6_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="26sp" />
+
+				<Button
+					android:id="@+id/bsubtract"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="301dp"
+					android:layout_marginTop="472dp"
+					android:background="@drawable/bsubtract_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txtsub_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="32sp" />
+
+
+				<Button
+					android:id="@+id/b1"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="13dp"
+					android:layout_marginTop="568dp"
+					android:background="@drawable/b1_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txt1_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="26sp" />
+
+
+				<Button
+					android:id="@+id/b2"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="109dp"
+					android:layout_marginTop="568dp"
+					android:background="@drawable/b2_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txt2_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="26sp" />
+
+
+				<Button
+					android:id="@+id/b3"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="205dp"
+					android:layout_marginTop="568dp"
+					android:background="@drawable/b3_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txt3_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="26sp" />
+
+
+				<Button
+					android:id="@+id/badd"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="301dp"
+					android:layout_marginTop="568dp"
+					android:background="@drawable/badd_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txtadd_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="32sp" />
+
+
+				<View
+					android:id="@+id/emptyspace"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="13dp"
+					android:layout_marginTop="664dp"
+					android:background="@drawable/emptyspace_shape"
+					android:visibility="visible" />
+
+				<Button
+					android:id="@+id/b0"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="109dp"
+					android:layout_marginTop="664dp"
+					android:background="@drawable/b0_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txt0_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="26sp" />
+
+
+				<Button
+					android:id="@+id/bdec"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="205dp"
+					android:layout_marginTop="664dp"
+					android:background="@drawable/bdec_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txtdec_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="32sp" />
+
+
+				<Button
+					android:id="@+id/bequal"
+					android:layout_width="96dp"
+					android:layout_height="96dp"
+					android:layout_marginStart="301dp"
+					android:layout_marginTop="664dp"
+					android:background="@drawable/bequal_shape"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="@string/txteq_string"
+					android:textColor="@color/_bg__homescreen_ek2_color"
+					android:textSize="32sp" />
+
+
+				<View
+					android:id="@+id/controlbox"
+					android:layout_width="385dp"
+					android:layout_height="60dp"
+					android:layout_marginStart="13dp"
+					android:layout_marginTop="214dp"
+					android:background="@drawable/controlbox_shape" />
+
+
+				<View
+					android:id="@+id/resultbox"
+					android:layout_width="385dp"
+					android:layout_height="100dp"
+					android:layout_marginStart="13dp"
+					android:layout_marginTop="108dp"
+					android:background="@drawable/resultbox_shape" />
+
+				<TextView
+					android:id="@+id/calculator"
+					android:layout_width="wrap_content"
+					android:layout_height="38dp"
+					android:layout_marginLeft="21dp"
+					android:layout_marginTop="65dp"
+					android:fontFamily="@font/montserrat_light"
+					android:text="calculator"
+					android:textColor="@color/bclear_color"
+					android:textSize="28sp" />
+
+				<TextView
+					android:id="@+id/note"
+					android:layout_width="wrap_content"
+					android:layout_height="38dp"
+					android:layout_marginLeft="21dp"
+					android:layout_marginTop="770dp"
+					android:fontFamily="@font/montserrat_regular"
+					android:text="designed in figma\ncoded in java"
+					android:textColor="@color/bclear_color"
+					android:textSize="10sp" />
+
+				<TextView
+					android:id="@+id/control"
+					android:layout_width="360dp"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="24dp"
+					android:layout_marginTop="230dp"
+					android:fontFamily="@font/montserrat_regular"
+					android:gravity="right"
+					android:text=""
+					android:textColor="@color/white"
+					android:textSize="24sp" />
+
+				<TextView
+					android:id="@+id/result"
+					android:layout_width="360dp"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="24dp"
+					android:layout_marginTop="155dp"
+					android:fontFamily="@font/montserrat_bold"
+					android:gravity="right"
+					android:text=""
+					android:textColor="@color/white"
+					android:textSize="32sp" />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

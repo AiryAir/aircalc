@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- homescreen strings -->
+
+	<string name="app_name">Page 3</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="txtac_string">ac</string>
+	<string name="txtback_string">back</string>
+	<string name="txtmod_string">%</string>
+	<string name="txtdiv_string"></string>
+	<string name="txt7_string">7</string>
+	<string name="txt8_string">8</string>
+	<string name="txt9_string">9</string>
+	<string name="txt4_string">4</string>
+	<string name="txt5_string">5</string>
+	<string name="txtsub_string">-</string>
+	<string name="txt1_string">1</string>
+	<string name="txt2_string">2</string>
+	<string name="txt3_string">3</string>
+	<string name="txtadd_string">+</string>
+	<string name="txt0_string">0</string>
+	<string name="txtdec_string">.</string>
+	<string name="txteq_string">=</string>
+	<string name="txtmul_string"></string>
+	<string name="txt6_string">6</string>
+	<string name="calculator_string">calculator</string>
+</resources>
