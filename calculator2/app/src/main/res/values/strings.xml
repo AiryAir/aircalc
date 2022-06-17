@@ -2,7 +2,7 @@
 <resources>
 	<!-- homescreen strings -->
 
-	<string name="app_name">Page 3</string>
+	<string name="app_name">calculator</string>
 	<string name="ek_img_content">ExportKit Image</string>
 	<string name="txtac_string">ac</string>
 	<string name="txtback_string">back</string>
